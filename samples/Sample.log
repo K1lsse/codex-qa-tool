@@ -1,0 +1,15 @@
+device boot success
+module init ok
+camera error happened
+test case fail
+system timeout
+kernel panic detected
+fatal system issue
+device disconnect
+normal boot complete
+controller fail line:83
+CM33 fail
+assert Fail line:132
+crash at boot
+null pointer exception in driver
+device reboot loop
